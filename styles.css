@@ -22,13 +22,6 @@
     --fw-regular: 400;
     --fw-medium: 500;
     --fw-bold: 700;
-
-    /* Background image position */
-    --bip-x: 170px;
-    --bip-y: 0;
-        /* Mobile */
-        --bipm-x: 0;
-        --bipm-y: 0;
 }
 
 html, body { height: 100%; }
